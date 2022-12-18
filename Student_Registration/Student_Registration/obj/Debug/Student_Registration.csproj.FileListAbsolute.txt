@@ -1,0 +1,11 @@
+C:\Users\shahe\source\repos\Student_Registration\Student_Registration\bin\Debug\Student_Registration.exe.config
+C:\Users\shahe\source\repos\Student_Registration\Student_Registration\bin\Debug\Student_Registration.exe
+C:\Users\shahe\source\repos\Student_Registration\Student_Registration\bin\Debug\Student_Registration.pdb
+C:\Users\shahe\source\repos\Student_Registration\Student_Registration\obj\Debug\Student_Registration.csproj.AssemblyReference.cache
+C:\Users\shahe\source\repos\Student_Registration\Student_Registration\obj\Debug\Student_Registration.csproj.SuggestedBindingRedirects.cache
+C:\Users\shahe\source\repos\Student_Registration\Student_Registration\obj\Debug\Student_Registration.Form1.resources
+C:\Users\shahe\source\repos\Student_Registration\Student_Registration\obj\Debug\Student_Registration.Properties.Resources.resources
+C:\Users\shahe\source\repos\Student_Registration\Student_Registration\obj\Debug\Student_Registration.csproj.GenerateResource.cache
+C:\Users\shahe\source\repos\Student_Registration\Student_Registration\obj\Debug\Student_Registration.csproj.CoreCompileInputs.cache
+C:\Users\shahe\source\repos\Student_Registration\Student_Registration\obj\Debug\Student_Registration.exe
+C:\Users\shahe\source\repos\Student_Registration\Student_Registration\obj\Debug\Student_Registration.pdb
