@@ -1,0 +1,11 @@
+C:\Users\shahe\source\repos\Calculator_5\Calculator_5\obj\Debug\Calculator_5.csproj.AssemblyReference.cache
+C:\Users\shahe\source\repos\Calculator_5\Calculator_5\obj\Debug\Calculator_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\shahe\source\repos\Calculator_5\Calculator_5\obj\Debug\Calculator_5.Form1.resources
+C:\Users\shahe\source\repos\Calculator_5\Calculator_5\obj\Debug\Calculator_5.Properties.Resources.resources
+C:\Users\shahe\source\repos\Calculator_5\Calculator_5\obj\Debug\Calculator_5.csproj.GenerateResource.cache
+C:\Users\shahe\source\repos\Calculator_5\Calculator_5\obj\Debug\Calculator_5.csproj.CoreCompileInputs.cache
+C:\Users\shahe\source\repos\Calculator_5\Calculator_5\bin\Debug\Calculator_5.exe.config
+C:\Users\shahe\source\repos\Calculator_5\Calculator_5\bin\Debug\Calculator_5.exe
+C:\Users\shahe\source\repos\Calculator_5\Calculator_5\bin\Debug\Calculator_5.pdb
+C:\Users\shahe\source\repos\Calculator_5\Calculator_5\obj\Debug\Calculator_5.exe
+C:\Users\shahe\source\repos\Calculator_5\Calculator_5\obj\Debug\Calculator_5.pdb
